@@ -119,7 +119,11 @@ footer  {
   margin: 0 5px;
 }
 
-
+iframe  {
+    border: 10px solid transparent;
+    border-image: url('../img/wood.jpg') 20% round;
+    box-shadow: 3px 3px 6px 4px #0b0808;
+}
 
 /***************************
 PAGE: PORTFOLIO
@@ -237,7 +241,13 @@ PAGE: CONTACT
 }
 
 #secondary	{
+
   margin-top: 50px;
+  padding: 10px;
+  color:white;
+  border-image: url('../img/wood.jpg') 20% round;
+  box-shadow: 3px 3px 6px 4px #0b0808;
+  background-image: url('../img/wood6.jpg')
 }
 
 
