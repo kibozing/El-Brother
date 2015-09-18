@@ -125,6 +125,10 @@ iframe  {
     box-shadow: 3px 3px 6px 4px #0b0808;
 }
 
+
+
+
+
 /***************************
 PAGE: PORTFOLIO
 ***************************/
@@ -238,11 +242,12 @@ PAGE: CONTACT
 
 #primary	{
   margin-top: 50px;
+  margin-bottom:10px;
 }
 
 #secondary	{
-
-  margin-top: 50px;
+  border: 10px solid transparent;
+  margin-top: 30px;
   padding: 10px;
   color:white;
   border-image: url('../img/wood.jpg') 20% round;
