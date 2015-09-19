@@ -123,6 +123,7 @@ iframe  {
     border: 10px solid transparent;
     border-image: url('../img/wood.jpg') 20% round;
     box-shadow: 3px 3px 6px 4px #0b0808;
+    width:330px; height:175px;
 }
 
 
@@ -243,16 +244,19 @@ PAGE: CONTACT
 #primary	{
   margin-top: 50px;
   margin-bottom:10px;
+  width:330px; length:180px;
 }
 
 #secondary	{
   border: 10px solid transparent;
-  margin-top: 30px;
+  margin-top: 50px;
   padding: 10px;
+  padding-bottom: 120px;
   color:white;
   border-image: url('../img/wood.jpg') 20% round;
   box-shadow: 3px 3px 6px 4px #0b0808;
-  background-image: url('../img/wood6.jpg')
+  background-image: url('../img/wood6.jpg');
+  width:330px; height:175px;
 }
 
 
